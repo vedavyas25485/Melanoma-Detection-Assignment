@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Melanoma Detection Assignment
 
 
 ## Table of Contents
@@ -13,24 +13,24 @@
 ## General Information
 - Provide general information about your project here.
 - What is the background of your project?
+- The is medical research project on Skin disease
 - What is the business probem that your project is trying to solve?
+- This project aims at identifying the existence of specific Skin disease melanoma 
 - What is the dataset that is being used?
+- We have collected 4.5K images as part of training and test data sets.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Based on training and validation accuracy observed detection of disease
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Tensor flow with keras 
+- Numpy and pandas 
+- Augmentator installation
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
